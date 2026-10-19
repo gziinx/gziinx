@@ -3,6 +3,7 @@
 
 ## Olá, eu sou o Gustavo Miguel 👋
 
+
 <!-- Animação de digitação estilo terminal -->
 <a href="https://github.com/gziinx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&background=000000&width=560&height=200&lines=Analista+de+Dados;Ci%C3%AAncia+de+Dados;Python+%7C+SQL+%7C+Pandas;Em+busca+de+est%C3%A1gio" alt="Typing SVG" />
@@ -31,16 +32,6 @@ Estudante de **Inteligência e Análise de Dados (SENAI)**, com prática em aná
 - 📊 Estatística, Ciência de Dados e Visualização de Dados
 - 🌎 Inglês
 
-### Projetos
-
-**🌦️ Projeto El Niño: Pipeline de Dados e Análise Climática** ([repositório](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO))
-Pipeline em Python que coleta dados climáticos da API Open-Meteo e os organiza na arquitetura medalhão (Bronze, Silver e Gold). Compara o inverno de 2025 e 2026 (ano de El Niño) com análises estatísticas e 4 visualizações (série temporal, boxplots, rosa dos ventos e resumo de chuva).
-`Python` `Pandas` `NumPy` `Matplotlib` `API REST`
-
-**💼 Projeto de Extensão: Análise Exploratória de Dados** ([repositório](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO))
-Análise exploratória de 9.355 registros e 12 variáveis de uma base de vagas da área de dados, em Jupyter Notebook. Tratamento e padronização de 100% dos registros, visualizações e insights apresentados à comunidade acadêmica do UniSENAI.
-`Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter`
-
 ### Formação
 
 - **Graduação Tecnológica em Inteligência e Análise de Dados**, SENAI Suíço-Brasileira (cursando, 2027)
@@ -48,6 +39,5 @@ Análise exploratória de 9.355 registros e 12 variáveis de uma base de vagas d
 
 ### Vamos conversar!
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/SEU_USUARIO"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-miguel9b88b437b"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="mailto:gustavosntpere22@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
