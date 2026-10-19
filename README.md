@@ -4,7 +4,7 @@
 ## Olá, eu sou o Gustavo Miguel 👋
 
 <!-- Animação de digitação estilo terminal -->
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/gziinx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&background=000000&width=560&height=200&lines=Analista+de+Dados;Ci%C3%AAncia+de+Dados;Python+%7C+SQL+%7C+Pandas;Em+busca+de+est%C3%A1gio" alt="Typing SVG" />
 </a>
 
